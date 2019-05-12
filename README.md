@@ -37,20 +37,20 @@ and in the code we go through column by column, telling the servos how much to m
 ```markdown
       for(int i =0; i < 12; i++){
          for(int j = 0; j < 14; j++){
-	          gpioServo(j+2, smiley[i][j]);  //print one column of the image
-            usleep(10000);
-	       }
-	       sleep(1);
-         
-	        for(int k =0; k < 14; k++){
-	          gpioServo(k+2, 2500);         //reset each servo
-	          usleep(10000);
-         }
-         sleep(1);
-	       stepperRight(4018);              //move the stepper motor over to the next column
-	       sleep(1);
-      }
-      stepperLeft(45025);                 //move back to the starting image once all the columns are complete
+	 	gpioServo(j+2, smiley[i][j]);		//print one column of the image
+		usleep(10000);
+		}
+		sleep(1);
+		
+	for(int k =0; k < 14; k++){
+		gpioServo(k+2, 2500);			//reset each servo
+		usleep(10000);
+		}
+		sleep(1);
+		stepperRight(4018);			//move the stepper motor over to the next column
+		sleep(1);
+	}
+	stepperLeft(45025);				//move back to the starting image once all the columns are complete
 ```
 In this way we finally achieved our initial dream of creating a functioning tile display screen. We were also able to take photos with our camera, but hadn't integrated it into the program.
 ## Week 4 - building 
