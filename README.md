@@ -1,11 +1,14 @@
 # ESE 350 Group 14 Blog
-# Final Demo Video
+## Final Demo Video
 Link - https://www.youtube.com/watch?v=NKJDuv7oGUY
 
-# Public Demo Day
-
-# First Demo Day
-
+## Public Demo Day
+05/09/19
+![image](/Users/MannyKuflik/Documents/UPENN/SOPHMORE/Spring/ESE350/ESE350finalproj/IMG_5480.JPG)
+On Public Demo Day we finally closed the loop and got our camera integrated into our project. We used OpenCV to 
+## Class Demo Day
+05/04/19
+For the class demo we were able to finally get our project working. Able to successfully display configured patterns and designs on our wodden tile screen. We were also able to take photos with our camera, but hadn't integrated it into the program.
 ## Week 2 - building 
 
 ## Week 1 - testing out viability of electromagnet
