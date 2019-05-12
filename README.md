@@ -4,7 +4,7 @@ Link - https://www.youtube.com/watch?v=NKJDuv7oGUY
 
 ## Public Demo Day
 05/09/19
-![image](/Users/MannyKuflik/Documents/UPENN/SOPHMORE/Spring/ESE350/ESE350finalproj/IMG_5480.JPG)
+![image](IMG_3775.JPG)
 On Public Demo Day we finally closed the loop and got our camera integrated into our project. We used OpenCV to 
 ## Class Demo Day
 05/04/19
