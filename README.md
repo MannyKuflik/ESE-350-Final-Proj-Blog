@@ -3,7 +3,7 @@
 Link - https://www.youtube.com/watch?v=NKJDuv7oGUY
 
 ## Public Demo Day
-05/09/19
+May 9th
 
 ![image](Smile.JPG)![image](Frown.JPG)
 
@@ -11,9 +11,11 @@ Link - https://www.youtube.com/watch?v=NKJDuv7oGUY
 On Public Demo Day we finally closed the loop and got our camera integrated into our project. We used OpenCV with an API to achieve smile detection with our camera, that wrote whether or not a smile was detected to a .txt in our Final Project folder. We were then able to check in our c code whether a smile had been detected or not and use that information to determine the image that was displayed on our screen. If a smile was detected our screen would display a smile(pictured left), and if not it would display a frown(pictured right). With that we had finally reached our reach goal of integrating the camera in an interactive way into our system! 
 
 ## Class Demo Day
-05/04/19
+May 4th
 
-![image](1.JPG)![image](2.JPG)![image](3.JPG)![image](4.JPG)
+![image](1.JPG)![image](2.JPG)
+
+![image](3.JPG)![image](4.JPG)
 
 For the class demo we were able to finally get our project working, finally able to successfully display configured patterns and designs on our wodden tile screen. In order to communicate the picture information to our servos, we used a 2d array(this is the 2d array for the images pictured above), 
 ```markdown
@@ -53,21 +55,19 @@ and in the code we go through column by column, telling the servos how much to m
 	stepperLeft(45025);				//move back to the starting image once all the columns are complete
 ```
 In this way we finally achieved our initial dream of creating a functioning tile display screen. We were also able to take photos with our camera, but hadn't integrated it into the program.
-## Week 4 - building 
+## Week 4 - Finishing building our system
 April 28th
-## Week 3 - building 
+## Week 3 - Milestone 2, scaling up
 April 21st
-## Week 2 - building 
+## Week 2 - Milsetone 1, building a small scale model
 April 14th
+
+![image](mvp.JPG)
+
+
 ## Week 1 - testing out viability of electromagnet
 April 7th
 
+![image](enm.JPG)
 
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-
-```
