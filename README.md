@@ -12,6 +12,7 @@ On Public Demo Day we finally closed the loop and got our camera integrated into
 
 ## Class Demo Day
 05/04/19
+![image](Screen Shot 2019-05-12 at 7.31.43 PM.png)![image](Screen Shot 2019-05-12 at 7.32.42 PM.png)![image](Screen Shot 2019-05-12 at 7.33.23 PM.png)![image](Screen Shot 2019-05-12 at 7.33.30 PM.png)
 For the class demo we were able to finally get our project working. Able to successfully display configured patterns and designs on our wodden tile screen. We were also able to take photos with our camera, but hadn't integrated it into the program.
 ## Week 4 - building 
 April 28th
