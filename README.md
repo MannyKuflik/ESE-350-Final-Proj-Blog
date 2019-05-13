@@ -60,19 +60,19 @@ April 28th
 
 Holy moly. Finishing up the building of this project took way way way longer than we could have expected. We spent over 30 hours straight in the lab without leaving to finish up our project in time for demo day. To create our tiles we needed to glue a nylon spacer onto the center of each tile. To do this we laser cut a mold that would fit the tile and had a hole in the middle for a dab of hot glue and the spacer. Individually putting together the tiles took around 5 hours of straight arduous work, our fingers started to feel like we were getting arthritis by the end of it. 
 
-![image](mvp.JPG)
+![image](tiles.JPG) ![image](mold.jpg)
 
 Once the tiles were made, setting them up on the bars was a whole other porject that took another 6-7 hours as each tile needed exactly the right amount of tape on the bars to cause enough friction for the tiles to be able to tilt freely, while also staying in place at whatever angle they were tilted to. Finding this balance was very difficult and unique to each tile, but eventually, through sheer will, we were able to get it done. 
 
-![image](mvp.JPG)
+![image](setup.JPG) ![image](tape.JPG)
 
 Once the physical system was done being built, we set up the stepper motor using a timing belt and bores attached to our moving 16 servo high arm, and attached all of the wires from the servos and the stepper mototrs to the raspberry pi. And finally, our project was ready for testing/debugging. Luckily for us, we saw very promising results on its very first run, but we still have a lot to go to reach our final goals for the project.
 ## Week 3 - Milestone 2, scaling up
 April 21st
 
-![image](mvp.JPG)
+![image](gear.JPG) ![image](arm.JPG)
 
-For our second milestone we started thinking ahead towards our final project. The solution to our tile issue we came up with was a moving arm that was 16 servos high to reach all of the tiles in a given column, and able to move left to right in order to reach every column. In order for the servos to be able to push each individual tile, we created a rack and pinion that we could attack onto the servo head, and achieve linearly, instead of circular motion, to push the tiles. We created a large casing for the arm, screwed in the 16 servos and attached the gears, and then created a track for it at the bottom of our system that it would move left and right in. We also created stands for the tiles and set up 16 metal bars that the tiles would eventually be placed on.
+For our second milestone we started thinking ahead towards our final project. The solution to our tile issue we came up with was a moving arm that was 16 servos high to reach all of the tiles in a given column, and able to move left to right in order to reach every column. In order for the servos to be able to push each individual tile, we created a rack and pinion that we could attach onto the servo head, and achieve linearly, instead of circular motion, to push the tiles. We created a large casing for the arm, screwed in the 16 servos and attached the gears, and then created a track for it at the bottom of our system that it would move left and right in. We also created stands for the tiles and set up 16 metal bars that the tiles would eventually be placed on.
 
 ## Week 2 - Milsetone 1, building a small scale model
 April 14th
