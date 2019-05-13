@@ -64,7 +64,7 @@ Holy moly. Finishing up the building of this project took way way way longer tha
 
 Once the tiles were made, setting them up on the bars was a whole other porject that took another 6-7 hours as each tile needed exactly the right amount of tape on the bars to cause enough friction for the tiles to be able to tilt freely, while also staying in place at whatever angle they were tilted to. Finding this balance was very difficult and unique to each tile, but eventually, through sheer will, we were able to get it done. 
 
-![image](setup.JPG) ![image](tape.JPG)
+![image](setup.JPG) ![image](tape.jpg)
 
 Once the physical system was done being built, we set up the stepper motor using a timing belt and bores attached to our moving 16 servo high arm, and attached all of the wires from the servos and the stepper mototrs to the raspberry pi. And finally, our project was ready for testing/debugging. Luckily for us, we saw very promising results on its very first run, but we still have a lot to go to reach our final goals for the project.
 ## Week 3 - Milestone 2, scaling up
