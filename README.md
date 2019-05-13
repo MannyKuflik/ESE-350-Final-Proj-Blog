@@ -99,7 +99,7 @@ and in the code we iterated through column by column, telling the servos how muc
 ```
 In this way we finally achieved our vision of creating a functioning tile display screen. We were also able to take photos with our camera, but hadn't had time to integrate it into the program.
 ## Week 4 - Finishing building our system
-April 28th
+April 28th - May 3rd
 
 Holy moly. Finishing up the building of this project took way way way longer than we could have expected. We spent over 15 hours a day all week, including 30 hours straight in the lab without leaving to finish up our project in time for demo day. To create our tiles we needed to glue a nylon spacer onto the center of each tile. To do this we laser cut a mold that would fit the tile and had a hole in the middle for a dab of hot glue and the spacer. Individually putting together the tiles took around 5 hours of straight arduous work, our fingers started to feel like we were getting arthritis by the end of it. 
 
@@ -113,20 +113,20 @@ Once the physical system was done being built, we set up the stepper motor using
 
 ![belt](belt.jpg)
 ## Week 3 - Milestone 2, scaling up
-April 21st
+April 21st - April 27th
 
 ![gear](gear.JPG) ![arm](arm.JPG)
 
 For our second milestone we started thinking ahead towards our final system. The solution to our tile issue we came up with was a moving arm that was 16 servos high to reach all of the tiles in a given column. This arm would be able to move left to right in order to reach every column. In order for the servos to be able to push each individual tile. We created a rack and pinion that we could attach onto each servo head, and achieve linear, instead of circular, motion to push the tiles. We created a large casing for the arm, screwed in the 16 servos and attached the gears, and then created a track for it at the bottom of our system that it would move left and right in. We also created stands for the tiles and set up 16 metal bars that the tiles will eventually be placed on.
 
 ## Week 2 - Milsetone 1, building a small scale model
-April 14th
+April 14th - April 20th
 
 ![mvp](mvp.JPG)
 
 Having moved on from the electromagnet idea, we moved back to our initial idea of using servos to tilt the tiles. We built a mini 2x2 system where each tile was fixed to a servo and able to tilt. Using some basic python code, we were able to get the tiles to tilt in real time and create various shades of light and dark, however, we know for the actual project we will not be able to have a servo attached to each and every tile, because that would be far too expensive. So, we are still thinking of a way to be able to reach all 256 tiles.
 ## Week 1 - Testing out viability of electromagnet
-April 7th
+April 7th - April 13th
 
 ![enm](enm.JPG)
 
