@@ -115,7 +115,7 @@ Once the physical system was done being built, we set up the stepper motor using
 ## Week 3 - Milestone 2, scaling up
 April 21st - April 27th
 
-![gear](gear.JPG) ![arm](arm.JPG)
+![gear](gear.JPG) ![arm](arm.JPG) ![arm](track.JPG)
 
 For our second milestone we started thinking ahead towards our final system. The solution to our tile issue we came up with was a moving arm that was 16 servos high to reach all of the tiles in a given column. This arm would be able to move left to right in order to reach every column. In order for the servos to be able to push each individual tile. We created a rack and pinion that we could attach onto each servo head, and achieve linear, instead of circular, motion to push the tiles. We created a large casing for the arm, screwed in the 16 servos and attached the gears, and then created a track for it at the bottom of our system that it would move left and right in. We also created stands for the tiles and set up 16 metal bars that the tiles will eventually be placed on.
 
