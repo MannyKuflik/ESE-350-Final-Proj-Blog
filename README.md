@@ -1,6 +1,6 @@
 # ESE 350 Group 14 Blog
 ## Final Demo Video
-Link - https://www.youtube.com/watch?v=NKJDuv7oGUY
+Link - https://vimeo.com/369928942
 
 ## Public Demo Day
 May 9th
